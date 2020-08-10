@@ -5,20 +5,9 @@
 - 🤓 Currently learning everything 
 - 🤔 Increasingly curious about tech
 
-
-### Connect with me:
-
-[<img align="left" alt="orkhanfarmanli | Twitter" width="22px" src="https://logo.clearbit.com/twitter.com"/>][twitter]
-[<img align="left" alt="orkhanfarmanli | Gmail" width="22px" src="https://logo.clearbit.com/gamail.com" />][gmail]
-[<img align="left" alt="orkhanfarmanli | LinkedIn" width="22px" src="https://logo.clearbit.com/linkedin.com" />][linkedin]
-[<img align="left" alt="orkhanfarmanli | Instagram" width="22px" src="https://logo.clearbit.com/instagram.com" />][instagram]
-[<img align="left" alt="orkhanfarmanli | Unsplash" width="22px" src="https://logo.clearbit.com/unsplash.com" />][unsplash]
-[<img align="left" alt="orkhanfarmanli | Upwork" width="22px" src="https://logo.clearbit.com/upwork.com" />][upwork]
-
 <br />
 
 ### Languages and Tools:
-
 
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
@@ -37,6 +26,18 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
+
+<br />
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="orkhanfarmanli | Twitter" width="22px" src="https://logo.clearbit.com/twitter.com"/>][twitter]
+[<img align="left" alt="orkhanfarmanli | Gmail" width="22px" src="https://logo.clearbit.com/gamail.com" />][gmail]
+[<img align="left" alt="orkhanfarmanli | LinkedIn" width="22px" src="https://logo.clearbit.com/linkedin.com" />][linkedin]
+[<img align="left" alt="orkhanfarmanli | Instagram" width="22px" src="https://logo.clearbit.com/instagram.com" />][instagram]
+[<img align="left" alt="orkhanfarmanli | Unsplash" width="22px" src="https://logo.clearbit.com/unsplash.com" />][unsplash]
+[<img align="left" alt="orkhanfarmanli | Upwork" width="22px" src="https://logo.clearbit.com/upwork.com" />][upwork]
 
 <br />
 <br />
