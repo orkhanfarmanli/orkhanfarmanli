@@ -1,5 +1,5 @@
 ### Hello there, I'm Orkhan 🤙
-
+---
 ## I'm a Developer, Gamer and Photographer!
 - 💖 Love working on hobby projects 
 - 🤓 Currently learning everything 
@@ -8,10 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="orkhanfarmanli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="orkhanfarmanli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="orkhanfarmanli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="orkhanfarmanli | Upwork" width="22px" src="https://www.shareicon.net/data/2017/02/24/879424_upwork_512x512.png" />][upwork]
+[<img align="left" alt="orkhanfarmanli | Twitter" width="22px" src="https://logo.clearbit.com/twitter.com"/>][twitter]
+[<img align="left" alt="orkhanfarmanli | LinkedIn" width="22px" src="https://logo.clearbit.com/linkedin.com" />][linkedin]
+[<img align="left" alt="orkhanfarmanli | Instagram" width="22px" src="https://logo.clearbit.com/instagram.com" />][instagram]
+[<img align="left" alt="orkhanfarmanli | Upwork" width="22px" src="https://logo.clearbit.com/upwork.com" />][upwork]
+[<img align="left" alt="orkhanfarmanli | Upwork" width="22px" src="https://logo.clearbit.com/gamail.com" />][gmail]
 
 <br />
 
@@ -45,4 +46,5 @@
 [instagram]: https://instagram.com/orkhanfarmanli
 [linkedin]: https://linkedin.com/in/orkhanfarmanli
 [upwork]: https://www.upwork.com/freelancers/~0146d625d66aa840ce
+[gmail]: mailto:orkhanfarmanli@gmail.com
 
