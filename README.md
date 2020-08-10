@@ -1,4 +1,4 @@
-### Hi there, I'm Orkhan 🤙
+### Hello there, I'm Orkhan 🤙
 
 ## I'm a Developer, Gamer and Photographer!
 - 💖 Love working on hobby projects 
