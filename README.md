@@ -9,10 +9,11 @@
 ### Connect with me:
 
 [<img align="left" alt="orkhanfarmanli | Twitter" width="22px" src="https://logo.clearbit.com/twitter.com"/>][twitter]
+[<img align="left" alt="orkhanfarmanli | Gmail" width="22px" src="https://logo.clearbit.com/gamail.com" />][gmail]
 [<img align="left" alt="orkhanfarmanli | LinkedIn" width="22px" src="https://logo.clearbit.com/linkedin.com" />][linkedin]
 [<img align="left" alt="orkhanfarmanli | Instagram" width="22px" src="https://logo.clearbit.com/instagram.com" />][instagram]
+[<img align="left" alt="orkhanfarmanli | Unsplash" width="22px" src="https://logo.clearbit.com/unsplash.com" />][unsplash]
 [<img align="left" alt="orkhanfarmanli | Upwork" width="22px" src="https://logo.clearbit.com/upwork.com" />][upwork]
-[<img align="left" alt="orkhanfarmanli | Upwork" width="22px" src="https://logo.clearbit.com/gamail.com" />][gmail]
 
 <br />
 
@@ -40,10 +41,10 @@
 <br />
 <br />
 
-[website]: https://orkhanfarmanli.com
+[gmail]: mailto:orkhanfarmanli@gmail.com
+[upwork]: https://www.upwork.com/freelancers/~0146d625d66aa840ce
 [twitter]: https://twitter.com/orkhanfarmanli
 [instagram]: https://instagram.com/orkhanfarmanli
 [linkedin]: https://linkedin.com/in/orkhanfarmanli
-[upwork]: https://www.upwork.com/freelancers/~0146d625d66aa840ce
-[gmail]: mailto:orkhanfarmanli@gmail.com
+[unsplash]: https://unsplash.com/@orkhanfarmanli
 
