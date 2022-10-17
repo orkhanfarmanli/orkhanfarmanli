@@ -34,7 +34,7 @@
 
 [<img align="left" alt="orkhanfarmanli | Twitter" width="22px" src="https://logo.clearbit.com/twitter.com"/>][twitter]
 [<img align="left" alt="orkhanfarmanli | Gmail" width="22px" src="https://logo.clearbit.com/uchightech.com.tw" />][gmail]
-[<img align="left" alt="orkhanfarmanli | LinkedIn" width="22px" src="https://logo.clearbit.com/linkedin.cn" />][linkedin]
+[<img align="left" alt="orkhanfarmanli | LinkedIn" width="22px" src="https://logo.clearbit.com/linkedin.com" />][linkedin]
 [<img align="left" alt="orkhanfarmanli | Instagram" width="22px" src="https://logo.clearbit.com/instagram.com" />][instagram]
 [<img align="left" alt="orkhanfarmanli | Unsplash" width="22px" src="https://logo.clearbit.com/unsplash.com" />][unsplash]
 [<img align="left" alt="orkhanfarmanli | Upwork" width="22px" src="https://logo.clearbit.com/upwork.com" />][upwork]
