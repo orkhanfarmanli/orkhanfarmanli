@@ -8,7 +8,7 @@ I build fast, focused software for the web and macOS.
 - Tech lead turning complex data into clean products
 
 ## What I'm working on
-- Forecast scoring, webcam checks, and SEO for isfujivisible.com
+- Improving accuracy, reliability, and SEO for isfujivisible.com
 - Iterating on BarMarks and ReddBar with real user feedback
 - Large-scale data integrations for influencer analytics
 
