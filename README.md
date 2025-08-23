@@ -1,49 +1,26 @@
-### Hello there, I'm Orkhan 🤙
----
-## I'm a Developer, Gamer and Photographer!
-- 💖 Love working on hobby projects 
-- 🤓 Currently learning everything 
-- 🤔 Increasingly curious about tech
+# Hey, I'm Orkhan 🤙
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=18&duration=3000&pause=800&width=500&lines=Tech+lead+and+maker;Web+and+macOS;Data+to+products;isfujivisible.com;barware.io)](https://git.io/typing-svg)
 
-<br />
+I build fast, focused software for the web and macOS.
 
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-<img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+- Founder of Barware (BarMarks and ReddBar for macOS)
+- Creator of isfujivisible.com (Mt. Fuji visibility forecast with live cams and an 8-day outlook)
+- Tech lead turning complex data into clean products
 
+## What I'm working on
+- Forecast scoring, webcam checks, and SEO for isfujivisible.com
+- Iterating on BarMarks and ReddBar with real user feedback
+- Large-scale data integrations for influencer analytics
 
-<br />
-<br />
+## Toolbox
+`PHP` `Go` `Node.js` `Swift` `Laravel` `PostgreSQL` `Redis` `Neo4j` `Nginx` `Flutter` `SwiftUI` `macOS` `Vue` `React` `TypeScript` `Git`
 
-### Connect with me:
+## Selected work
+- **[isfujivisible.com](https://isfujivisible.com)**: plan a Fuji day with a quick visibility score and live cams
+- **[BarMarks](https://apps.apple.com/az/app/barmarks-bookmarks-in-menubar/id6739710035?mt=12)**: a lightweight bookmark manager for the menu bar (Mac)
+- **[ReddBar](https://apps.apple.com/az/app/reddbar-menu-bar-subreddits/id6739960301?mt=12)**: read Reddit from the menu bar, no login required (Mac)
 
-[<img align="left" alt="orkhanfarmanli | Gmail" width="22px" src="https://logo.clearbit.com/google.com" />][gmail]
-[<img align="left" alt="orkhanfarmanli | LinkedIn" width="22px" src="https://logo.clearbit.com/linkedin.com" />][linkedin]
-[<img align="left" alt="orkhanfarmanli | Instagram" width="22px" src="https://logo.clearbit.com/instagram.com" />][instagram]
-[<img align="left" alt="orkhanfarmanli | Unsplash" width="22px" src="https://logo.clearbit.com/unsplash.com" />][unsplash]
-[<img align="left" alt="orkhanfarmanli | Upwork" width="22px" src="https://logo.clearbit.com/upwork.com" />][upwork]
+## Find me
+[Email](mailto:orkhanfarmanli@gmail.com) • [LinkedIn](https://linkedin.com/in/orkhanfarmanli) • [Twitter](https://twitter.com/orkhanfarmanli) • [Instagram](https://instagram.com/orkhanfarmanli) • [Unsplash](https://unsplash.com/@orkhanfarmanli) • [Upwork](https://www.upwork.com/freelancers/~0146d625d66aa840ce)
 
-<br />
-<br />
-
-[gmail]: mailto:orkhanfarmanli@gmail.com
-[upwork]: https://www.upwork.com/freelancers/~0146d625d66aa840ce
-[twitter]: https://twitter.com/orkhanfarmanli
-[instagram]: https://instagram.com/orkhanfarmanli
-[linkedin]: https://linkedin.com/in/orkhanfarmanli
-[unsplash]: https://unsplash.com/@orkhanfarmanli
-
+![GitHub Streak](https://streak-stats.demolab.com?user=orkhanfarmanli&date_format=j%20M%5B%20Y%5D)
