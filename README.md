@@ -21,6 +21,6 @@ I build fast, focused software for the web and macOS.
 - **[ReddBar](https://apps.apple.com/az/app/reddbar-menu-bar-subreddits/id6739960301?mt=12)**: read Reddit from the menu bar, no login required (Mac)
 
 ## Find me
-[Email](mailto:orkhanfarmanli@gmail.com) • [LinkedIn](https://linkedin.com/in/orkhanfarmanli) • [Twitter](https://twitter.com/orkhanfarmanli) • [Instagram](https://instagram.com/orkhanfarmanli) • [Unsplash](https://unsplash.com/@orkhanfarmanli) • [Upwork](https://www.upwork.com/freelancers/~0146d625d66aa840ce)
+[Email](mailto:orkhanfarmanli@gmail.com) • [LinkedIn](https://linkedin.com/in/orkhanfarmanli) • [X/Twitter](https://x.com/orkhanfarmanli) • [Instagram](https://instagram.com/orkhanfarmanli) • [Unsplash](https://unsplash.com/@orkhanfarmanli)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=orkhanfarmanli&date_format=j%20M%5B%20Y%5D)
