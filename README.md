@@ -1,5 +1,5 @@
 # Hey, I'm Orkhan 🤙
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=18&duration=3000&pause=800&width=500&lines=Tech+lead+and+maker;Web+and+macOS;Data+to+products;isfujivisible.com;barware.io)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=18&duration=3000&pause=800&width=500&lines=Tech+lead+and+maker;isfujivisible.com;Web+and+macOS;Data+to+products;isfujivisible.com;barware.io)](https://git.io/typing-svg)
 
 I build fast, focused software for the web and macOS.
 
@@ -22,5 +22,3 @@ I build fast, focused software for the web and macOS.
 
 ## Find me
 [Email](mailto:orkhanfarmanli@gmail.com) • [LinkedIn](https://linkedin.com/in/orkhanfarmanli) • [X/Twitter](https://x.com/orkhanfarmanli) • [Instagram](https://instagram.com/orkhanfarmanli) • [Unsplash](https://unsplash.com/@orkhanfarmanli)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=orkhanfarmanli&date_format=j%20M%5B%20Y%5D)
