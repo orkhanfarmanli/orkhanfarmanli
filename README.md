@@ -16,7 +16,8 @@ I build fast, focused software for the web and macOS.
 `PHP` `Go` `Node.js` `Swift` `Laravel` `PostgreSQL` `Redis` `Neo4j` `Nginx` `Flutter` `SwiftUI` `macOS` `Vue` `React` `TypeScript` `Git`
 
 ## Selected work
-- **[isfujivisible.com](https://isfujivisible.com)**: plan a Fuji day with a quick visibility score and live cams
+- **[isfujivisible.com](https://isfujivisible.com)**: plan a Mt Fuji day with a quick visibility score and live cams
+- **[montsaintmicheltides.com](https://montsaintmicheltides.com)**: check Mont Saint-Michel tide forecasts to plan your trip
 - **[BarMarks](https://apps.apple.com/az/app/barmarks-bookmarks-in-menubar/id6739710035?mt=12)**: a lightweight bookmark manager for the menu bar (Mac)
 - **[ReddBar](https://apps.apple.com/az/app/reddbar-menu-bar-subreddits/id6739960301?mt=12)**: read Reddit from the menu bar, no login required (Mac)
 
